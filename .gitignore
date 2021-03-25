@@ -1,0 +1,14 @@
+node_modules/
+npm/**/cypress/screenshots
+.env
+.env.test
+
+*.log
+cypress/screenshots
+cypress/videos
+cypress/logs
+cypress/fixtures/profile.json
+cypress/fixtures/users.json
+.history
+.vscode
+env
